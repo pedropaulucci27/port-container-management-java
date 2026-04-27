@@ -32,11 +32,11 @@ Um porto precisa de um sistema para controlar o carregamento de contêineres em 
 ## 🗂️ Estrutura do Projeto
 
 ```
-src/
-└── ap1/
-    ├── Main.java        # Classe principal com menu e lógica de interação
-    ├── Navio.java       # Entidade Navio
-    └── Container.java   # Entidade Container
+
+Main.java        # Classe principal com menu e lógica de interação
+Navio.java       # Entidade Navio
+Container.java   # Entidade Container
+
 ```
 
 ## 🚀 Como Executar
